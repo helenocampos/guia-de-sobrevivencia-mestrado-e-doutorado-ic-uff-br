@@ -169,7 +169,7 @@ O documento original é esse [aqui](https://GitHub.com/anselmobattisti/guia-de-s
 
 * Leia os murais do IC. Muita informação valiosa pode ser encontrada lá. Inclusive, já vi muitos informes de bolsa. Alguns professores colocam as notas afixadas por lá. 
 
-* O único ônibus que passa em frente ao IC é o 47, ele será seu grande companheiro. Se você não quiser ficar colecionando moedinhas, compre um riocard http://www.riocard.com/, para utilizar nos ônibus e pode recarregar de casa. Ative a integração intermunicipal, caso precise. É uma economia significativa.
+* O ônibus que passa em frente ao IC é o 47 — será um grande companheiro. Se não quiser ficar colecionando moedas, adquira um RioCard (http://www.riocard.com/) para usar nos ônibus; é possível recarregá-lo pela internet. Ative a integração intermunicipal se necessário.
 
 * Não existe um caixa eletrônico do Banco do Brasil dentro do campus da Praia Vermelha (PV). Isso é bem triste. O caixa eletrônico (Banco24Horas) mais próximo fica dentro do supermercado Pão de Açúcar no Ingá. Na mesma rua existe o banco Bradesco e Itaú.
 
@@ -201,7 +201,7 @@ O documento original é esse [aqui](https://GitHub.com/anselmobattisti/guia-de-s
 
 * Quer saber se tem energia no IC? Se as redes ou os sites estão funcionando? Acesse: https://stats.uptimerobot.com/wq9WXhv1Zv
 
-* Na copa do mestrado existe uma “Caixinha do Café”. O que isto significa? A água é _DIGRATIS_, o café e os biscoitos são das pessoas que contribuem para a caixinha do café. Acho que a responsável pela caixinha é a Ângela, secretaria do IC. Se ganhar uma graninha, ajude também. Alguns alunos fazem pesquisa aos trancos e barrancos. Ajuda é sempre bem-vinda! :)
+* Na copa do mestrado existe uma “caixinha do café”. A água costuma ser GRÁTIS; o café e os biscoitos dependem das contribuições. A responsável costuma ser a Ângela, da secretaria do IC. Se puder, contribua — muitos alunos fazem pesquisa com recursos limitados.
 
 * Se você precisar entrar no Instituto de Computação durante fim de semana e feriados, você pode deixar seu nome na secretaria da pós graduação. Eles irão fazer uma lista com as pessoas autorizadas a entrar durante o fim de semana. O guardinha terá essa lista. Apresente seu documento e você terá livre acesso para trabalhar no FDS! **Sem autorização, sem acesso as instalações do IC.**
 
@@ -211,7 +211,7 @@ O documento original é esse [aqui](https://GitHub.com/anselmobattisti/guia-de-s
 
 * Evite fazer duas disciplinas básicas no mesmo semestre. Geralmente são puxadas e você pode acabar tendo problemas (perder a tão sonhada bolsa, por exemplo).
 
-* Estrutura de Dados (para os íntimos, ED) é uma matéria MUITO importante! Estude e tire notas boas. Muita gente PEDE PRA SAIR, mas você não vai ser um deles, certo? Procure pelo livro do Thomas H. Cormen. Ele é sua Bíblia e nada te faltará.
+* Estrutura de Dados (ED) é uma disciplina muito importante. Estude e obtenha boas notas. Procure o livro de Thomas H. Cormen — é referência na área.
 
 * Ainda sobre ED, [esse repositório](https://GitHub.com/anselmobattisti/ed_2019) tem algumas coisas que pode te ajudar. Boa sorte!
 
@@ -229,7 +229,7 @@ O documento original é esse [aqui](https://GitHub.com/anselmobattisti/guia-de-s
 
 * Você está preocupado com as provas das disciplinas básicas? Pergunte aos veteranos. Eles podem ser uma boa fonte de informação sobre como você será cobrado. Pergunte por questões anteriores, provas anteriores, listas de exercícios antigas, trabalhos e etc. Alguém, certamente, vai te ajudar e fornecer informações valiosas.
 
-* Você precisará fazer uma prova de inglês até começar a sua pesquisa. [Aqui está o material de estudo](https://drive.google.com/drive/folders/1DJtJ8l-amDm39yKi8M8oJVKRTARuqVt9). A prova é bem tranquila, **NO PANIC!**
+* Você precisará fazer uma prova de inglês antes de começar a pesquisa. [Aqui está material de estudo](https://drive.google.com/drive/folders/1DJtJ8l-amDm39yKi8M8oJVKRTARuqVt9). A prova costuma ser tranquila — **NÃO ENTRE EM PÂNICO!**
  
  * Se você tem um relatório para escrever, um plano de trabalho, uma apresentação, ou qualquer outra coisa para redigir, não reinvente a roda. Pergunte aos veteranos se eles possuem um modelo. Você pode usá-lo como inspiração, aperfeiçoá-lo e economizar tempo.
  
@@ -369,13 +369,15 @@ da sua casa, apenas configurando o navegador.
 
 * De uma olhada nos que já trilharam os passos que você quer trilhar, aqui estão as teses e dissertações de todos os alunos antigos do programa http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes 
 
-* Aprenda a utilizar um editor de texto chamado LaTeX. Uma opção é utilizar a plataforma [Overleaf](https://www.overleaf.com/). Escreva sua dissertação utilizando ele, caso seu orientador permita. Mas não se esqueça de utilizar o corretor ortográfico, a sua dissertação ficará com um aspecto mais profissional. Se você não souber usar o corretor do LaTeX, cole seu texto no Word e faça as modificações necessárias. 
+
+* Aprenda LaTeX. Uma opção é utilizar a plataforma [Overleaf](https://www.overleaf.com/). Escreva sua dissertação em LaTeX caso seu orientador permita e use corretor ortográfico para deixar o texto mais profissional. Se tiver dificuldade, cole o texto em um editor com correção ortográfica para revisar.
 
 * O aluno Arthur Zopellaro junto com a professora Yona Lopes organizam anualmente uma vaquinha para assinatura do Grammarly. Essa ferramenta é muito boa para ajudar na correção de textos escritos em inglês. O preço anual fica em torno de R$ 200,00 para quem participa da vaquinha, o que representa um desconto bem grande em relação ao preço tradicional (US$ 144,00). Normalmente eles enviam um formulário de interesse na lista de emails dos alunos da pós em junho.
 
 * Tente publicar sua pesquisa antes da defesa, isso te trará mais tranquilidade para sua defesa. E a banca irá te julgar de uma forma mais positiva, afinal você não está sendo julgado apenas por eles.
 
-* Não se esqueça de verificar na sua dissertação se: Todas as referências foram citadas, se todas as figuras foram citadas, se todas as tabelas, figuras, listagens e gráficos possuem legenda. Utilize corretamente a virgula, utilize corretamente a crase, verifique se você está utilizando as normas da ABNT. 90% das críticas você resolverá só verificando isso. (aqui tem algumas dicas interessantes https://GitHub.com/Wookai/artigo-tips-and-tricks)
+
+* Não se esqueça de verificar na dissertação: se todas as referências foram citadas; se todas as figuras, tabelas e listagens possuem legenda; se as citações estão corretas. Use corretamente a vírgula e a crase; verifique as normas da ABNT. Boa parte das críticas poderá ser resolvida com essas checagens. (Dicas: https://GitHub.com/Wookai/artigo-tips-and-tricks)
 
 ## 🏁 Dicas para a Defesa
 
